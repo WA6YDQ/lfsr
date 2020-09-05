@@ -45,7 +45,7 @@ $>
 * the message is encrypted. Never disclose the key. The message originator and the message recipient 
 * must both have the same key for the message to be useable.
 *
-* Keep this program secure, and away from public access (websites, ftp servers, etc).
+* 
 *
 */
 
